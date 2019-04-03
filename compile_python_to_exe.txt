@@ -1,0 +1,9 @@
+Python 3.5-2.7 : https://www.youtube.com/watch?v=lOIJIk_maO4
+pyinstaller -i "D:\Python\Socket\New folder\unnamed.ico" -F notesbook.py
+
+
+https://www.youtube.com/watch?v=kyoGfnLm4LA
+Python 3.5 ด้วยไฟล์ Setup.txt: python setup.txt py2exe
+
+
+
